@@ -8,9 +8,9 @@
 The SmartScore Student Management System is a robust and user-friendly application designed to streamline the management of student records. Developed using Python's Tkinter library for the graphical user interface (GUI) and integrated with a MySQL database, this project provides an efficient solution for educational institutions seeking to organize and manipulate student data seamlessly.
 
 ## Features
-1. Data Management: Add, update, delete, and search for student records.
-2. Grade Calculation: Automatically calculates the Grade Weighted Average (GWA) based on midterm and finals grades.
-3. Export to Excel: Export student data to an Excel file for easy sharing and analysis.
+- Data Management: Add, update, delete, and search for student records.
+- Grade Calculation: Automatically calculates the Grade Weighted Average (GWA) based on midterm and finals grades.
+- Export to Excel: Export student data to an Excel file for easy sharing and analysis.
 
 ## Requirements
 - Python 3.x
