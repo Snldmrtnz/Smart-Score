@@ -1,3 +1,3 @@
-https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif
+![coding]https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif
 
 # Smart-Score
