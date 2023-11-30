@@ -1,3 +1,4 @@
+![ezgif-3-3fd671ccc8](https://github.com/Snldmrtnz/Smart-Score/assets/118676134/02731d83-7708-4153-bab7-660f03c70770)
 
 ![🧑_🎓 Smart_Score 🖥️](https://github.com/Snldmrtnz/Smart-Score/assets/118676134/e979b5eb-a766-4244-8e69-81b2a7e30a28)
 
