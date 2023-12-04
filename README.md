@@ -12,9 +12,6 @@ The SmartScore Student Management System is a robust and user-friendly applicati
 - Grade Calculation: Automatically calculates the Grade Weighted Average (GWA) based on midterm and finals grades.
 - Export to Excel: Export student data to an Excel file for easy sharing and analysis.
 
-![ezgif com-resize](https://github.com/Snldmrtnz/Smart-Score/assets/118676134/26173b58-d5ff-4118-9bbf-a4618c8de347)
-
-
 ## Database Management
 1. Imported Libraries:
    - csv: For reading and writing CSV files (though not used in the provided code).
@@ -48,6 +45,8 @@ The SmartScore Student Management System is a robust and user-friendly applicati
 7. Main Execution:
    - The script defines a main window, sets up the GUI elements, configures the Treeview columns, and populates the initial data in the Treeview using the refreshTable function.
    - The script enters the Tkinter event loop (window.mainloop()) to handle user interactions.
+  
+![ezgif com-resize](https://github.com/Snldmrtnz/Smart-Score/assets/118676134/26173b58-d5ff-4118-9bbf-a4618c8de347)
 
 ## Requirements
 - Python 3.x
