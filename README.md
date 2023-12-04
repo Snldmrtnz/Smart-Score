@@ -12,6 +12,8 @@ The SmartScore Student Management System is a robust and user-friendly applicati
 - Grade Calculation: Automatically calculates the Grade Weighted Average (GWA) based on midterm and finals grades.
 - Export to Excel: Export student data to an Excel file for easy sharing and analysis.
 
+![image](https://github.com/Snldmrtnz/Smart-Score/assets/118676134/0904cefc-0e4d-4e52-bedf-19dba3d0e403)
+
 ## Database Management
 1. Imported Libraries:
    - csv: For reading and writing CSV files (though not used in the provided code).
