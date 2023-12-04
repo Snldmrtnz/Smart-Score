@@ -2,6 +2,8 @@
 
 ![🧑_🎓Smart_Score 🖥️ (1)](https://github.com/Snldmrtnz/Smart-Score/assets/118676134/9e1283f1-307b-491d-ad72-70f24ac55782)
 
+![ezgif com-resize](https://github.com/Snldmrtnz/Smart-Score/assets/118676134/26173b58-d5ff-4118-9bbf-a4618c8de347)
+
 # Introduction
 ## Project Introduction: SmartScore Student Management System
 
@@ -46,8 +48,6 @@ The SmartScore Student Management System is a robust and user-friendly applicati
    - The script defines a main window, sets up the GUI elements, configures the Treeview columns, and populates the initial data in the Treeview using the refreshTable function.
    - The script enters the Tkinter event loop (window.mainloop()) to handle user interactions.
   
-![ezgif com-resize](https://github.com/Snldmrtnz/Smart-Score/assets/118676134/26173b58-d5ff-4118-9bbf-a4618c8de347)
-
 ## Requirements
 - Python 3.x
 - Tkinter library
