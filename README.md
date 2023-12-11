@@ -79,6 +79,9 @@ The SmartScore Student Management System is a robust and user-friendly applicati
 - Ensure that the required libraries are installed (pymysql, xlsxwriter) before running the application.
 - Feel free to contribute and enhance the SmartScore Student Management System!
 
+# Video Presentation
+https://drive.google.com/drive/folders/1EKclaM_Gs_gX9Kss1M9ZDq49Qd4-_5sL
+
 # Group Members
 - Carandang, Angelica
 - Calalo, Homer
